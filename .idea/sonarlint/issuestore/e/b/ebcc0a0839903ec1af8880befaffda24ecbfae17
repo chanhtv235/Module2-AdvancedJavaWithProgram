@@ -1,0 +1,13 @@
+
+]
+java:S21844"BCast one of the operands of this division operation to a "double".(£À»¶üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­ä¡“
+M
+java:S1128"2Remove this unused import 'java.net.SocketOption'.(ÊŸ†ßøÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+A
+java:S21854"&Remove this silly call to "Math.floor"(£À»¶üÿÿÿÿ
+>	java:S108;")Either remove or fill this block of code.(å¥‡
+c	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïâ«
+h	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•è…öüÿÿÿÿ
