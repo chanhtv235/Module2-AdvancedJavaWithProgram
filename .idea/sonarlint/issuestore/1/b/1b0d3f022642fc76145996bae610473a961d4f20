@@ -1,11 +1,10 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´°”
-d	java:S116"ORename this field "SLOW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÂÇ”
-k	java:S116"QRename this field "MEDIUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”²ô™ÿÿÿÿÿ
-d	java:S116"ORename this field "FAST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Óù
 7
 java:S1170"!Make this final field static too.(ñÂÇ”
-<
-java:S1170"!Make this final field static too.(”²ô™ÿÿÿÿÿ
 7
 java:S1170"!Make this final field static too.(‡Óù
+d	java:S116"ORename this field "SLOW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÂÇ”
+<
+java:S1170"!Make this final field static too.(”²ô™ÿÿÿÿÿ
+k	java:S116"QRename this field "MEDIUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”²ô™ÿÿÿÿÿ
+d	java:S116"ORename this field "FAST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Óù

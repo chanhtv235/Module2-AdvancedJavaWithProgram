@@ -1,5 +1,4 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûæÙÿøÿÿÿÿ
+f	java:S128*"LEnd this switch case with an unconditional break, return or throw statement.(£Þ¾Ëþÿÿÿÿ
 h
 java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Çµí‘
-f	java:S128*"LEnd this switch case with an unconditional break, return or throw statement.(£Þ¾Ëþÿÿÿÿ

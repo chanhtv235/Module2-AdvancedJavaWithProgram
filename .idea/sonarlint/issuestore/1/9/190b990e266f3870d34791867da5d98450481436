@@ -1,0 +1,15 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(Š®µşûÿÿÿÿ8Ãø¥ŒŸ.
+j
+java:S1192"HDefine a constant instead of duplicating this literal ", Size " 3 times.(ºâÎÙüÿÿÿÿ8Ãø¥ŒŸ.
+j
+java:S1192"HDefine a constant instead of duplicating this literal "Index: " 3 times.(ºâÎÙüÿÿÿÿ8Ãø¥ŒŸ.
+j
+java:S11828"HUse super.clone() to create and seed the cloned instance to be returned.(šòÈÙşÿÿÿÿ8Ãø¥ŒŸ.
+u
+java:S29758"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(šòÈÙşÿÿÿÿ8Ãø¥ŒŸ.
+{
+java:S3012;"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ï–á¥ûÿÿÿÿ8Ãø¥ŒŸ.
+{
+java:S2293t"YReplace the type specification in this constructor call with the diamond operator ("<>").(é´Ñÿÿÿÿÿ8Ãø¥ŒŸ.

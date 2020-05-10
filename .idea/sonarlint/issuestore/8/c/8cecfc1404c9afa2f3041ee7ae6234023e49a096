@@ -1,0 +1,60 @@
+
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(öæ›Ä8¬†´ŒŸ.
+S
+java:S2696&"6Make the enclosing method "static" or remove this set.(öæ›Ä8¬†´ŒŸ.
+W
+java:S2209k"5Change this instance-reference to a static reference.(ÊîöÅùÿÿÿÿ8¬†´ŒŸ.
+|
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş™«‰ÿÿÿÿÿ8¬†´ŒŸ.
+R
+java:S2209P"5Change this instance-reference to a static reference.(ğåÍ÷8¬†´ŒŸ.
+X
+java:S2696J"6Make the enclosing method "static" or remove this set.(ËùüÅúÿÿÿÿ8¬†´ŒŸ.
+K	java:S108ˆ")Either remove or fill this block of code.(ÈßÁéøÿÿÿÿ8¬†´ŒŸ.
+W
+java:S2209D"5Change this instance-reference to a static reference.(ËùüÅúÿÿÿÿ8¬†´ŒŸ.
+j
+java:S1182T"HUse super.clone() to create and seed the cloned instance to be returned.(šòÈÙşÿÿÿÿ8¬†´ŒŸ.
+S
+java:S2209"5Change this instance-reference to a static reference.(„ŠËŸ8¬†´ŒŸ.
+R
+java:S22091"5Change this instance-reference to a static reference.(öæ›Ä8¬†´ŒŸ.
+W
+java:S2209J"5Change this instance-reference to a static reference.(ËùüÅúÿÿÿÿ8¬†´ŒŸ.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªØàÕıÿÿÿÿ8¬†´ŒŸ.
+=
+java:S2326"E is not used in the class.(ä…‹ùÿÿÿÿ8ŞÁ²ŒŸ.
+R
+java:S2209&"5Change this instance-reference to a static reference.(öæ›Ä8¬†´ŒŸ.
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(öæ›Ä8¬†´ŒŸ.
+}
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "newNode".(„ŠËŸ8¬†´ŒŸ.
+W
+java:S2209="5Change this instance-reference to a static reference.(ËùüÅúÿÿÿÿ8¬†´ŒŸ.
+X
+java:S2209"5Change this instance-reference to a static reference.(ÊîöÅùÿÿÿÿ8¬†´ŒŸ.
+S
+java:S26961"6Make the enclosing method "static" or remove this set.(öæ›Ä8¬†´ŒŸ.
+X
+java:S2696="6Make the enclosing method "static" or remove this set.(ËùüÅúÿÿÿÿ8¬†´ŒŸ.
+R
+java:S2209@"5Change this instance-reference to a static reference.(·î‰Ñ8¬†´ŒŸ.
+R
+java:S2209"5Change this instance-reference to a static reference.(öæ›Ä8¬†´ŒŸ.
+R
+java:S2209"5Change this instance-reference to a static reference.(öæ›Ä8¬†´ŒŸ.
+W
+java:S2209W"5Change this instance-reference to a static reference.(ÊîöÅùÿÿÿÿ8¬†´ŒŸ.
+R
+java:S2209U"5Change this instance-reference to a static reference.(¥Ÿêü8¬†´ŒŸ.
+W
+java:S2209w"5Change this instance-reference to a static reference.(€É„…ùÿÿÿÿ8¬†´ŒŸ.
+u
+java:S2975T"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(šòÈÙşÿÿÿÿ8¬†´ŒŸ.
+X
+java:S2696D"6Make the enclosing method "static" or remove this set.(ËùüÅúÿÿÿÿ8¬†´ŒŸ.
+Q
+java:S22098"5Change this instance-reference to a static reference.(È‚d8¬†´ŒŸ.
