@@ -1,29 +1,29 @@
 
+H
+java:S1199."-Extract this nested code block into a method.(æÅë…üÿÿÿÿ
+7
+java:S1643e"Use a StringBuilder instead.(¢ßººýÿÿÿÿ
 C
 java:S1199&"-Extract this nested code block into a method.(·ÇÌ‰
+2
+java:S1643T"Use a StringBuilder instead.(§ð¾Ð
+H
+java:S11996"-Extract this nested code block into a method.(Î—­Šþÿÿÿÿ
 H
 java:S1199*"-Extract this nested code block into a method.(ù¿§êýÿÿÿÿ
 H
-java:S1199."-Extract this nested code block into a method.(æÅë…üÿÿÿÿ
-H
-java:S11992"-Extract this nested code block into a method.(çð²Œúÿÿÿÿ
-H
-java:S11996"-Extract this nested code block into a method.(Î—­Šþÿÿÿÿ
-C
-java:S1199X"-Extract this nested code block into a method.(·ÇÌ‰
-H
-java:S1199\"-Extract this nested code block into a method.(ù¿§êýÿÿÿÿ
+java:S1199d"-Extract this nested code block into a method.(çð²Œúÿÿÿÿ
 H
 java:S1199`"-Extract this nested code block into a method.(æÅë…üÿÿÿÿ
-H
-java:S1199d"-Extract this nested code block into a method.(çð²Œúÿÿÿÿ
-2
-java:S1643T"Use a StringBuilder instead.(§ð¾Ð
-2
-java:S1643Y"Use a StringBuilder instead.(…¨·‚
 2
 java:S1643]"Use a StringBuilder instead.(ÝÑ¹µ
+H
+java:S11992"-Extract this nested code block into a method.(çð²Œúÿÿÿÿ
+C
+java:S1199X"-Extract this nested code block into a method.(·ÇÌ‰
 7
 java:S1643a"Use a StringBuilder instead.(¸£â‘úÿÿÿÿ
-7
-java:S1643e"Use a StringBuilder instead.(¢ßººýÿÿÿÿ
+H
+java:S1199\"-Extract this nested code block into a method.(ù¿§êýÿÿÿÿ
+2
+java:S1643Y"Use a StringBuilder instead.(…¨·‚
