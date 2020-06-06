@@ -1,10 +1,13 @@
 package IOTextFile.Copyfile;
 
+import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.io.IOException;
 
 public class CopyFile {
-    public static void writeFile(FileWriter fw, String str) {
+    public static void writeFile(File file, String str) throws IOException {
+        FileWriter fw =new FileWriter(file);
         try {
             fw.write(str);
             fw.close();
@@ -14,7 +17,8 @@ public class CopyFile {
         System.out.println("Success...");
     }
 
-    public static String readFile(FileReader fr) throws Exception {
+    public static String readFile(File file) throws Exception {
+        FileReader fr =new FileReader(file);
         int i;
         String result="";
         while ((i = fr.read()) != -1) {
@@ -25,8 +29,11 @@ public class CopyFile {
     }
 
     public static void main(String[] args) throws Exception {
-        String result=readFile(new FileReader("E:\\CODEGYM DANANG\\Jame\\Modul2.AdvancedJavaWithProgram\\src\\IOTextFile\\read.txt"));
-        writeFile(new FileWriter("E:\\CODEGYM DANANG\\Jame\\Modul2.AdvancedJavaWithProgram\\src\\IOTextFile\\wirte.txt"),result);
+
+        File readFile =new File("E:\\CODEGYM DANANG\\Jame\\Modul2.AdvancedJavaWithProgram\\src\\IOTextFile\\Copyfile\\read.txt");
+        File wirteFile =new File("E:\\CODEGYM DANANG\\Jame\\Modul2.AdvancedJavaWithProgram\\src\\IOTextFile\\Copyfile\\wirte.txt");
+        String result=readFile(readFile);
+        writeFile(wirteFile,result);
 
     }
 }

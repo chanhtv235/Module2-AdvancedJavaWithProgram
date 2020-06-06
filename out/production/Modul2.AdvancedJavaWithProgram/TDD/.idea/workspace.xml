@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb2b23e2-c583-412a-a8e2-03aa7a8316d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Products.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOBinaryFile/Demo/CopeFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOBinaryFile/QuanLySP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOBinaryFile/QuanLySP/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOBinaryFile/QuanLySanPham/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOBinaryFile/QuanLySanPham/productFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOTextFile/wirte.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEpKieu/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEpKieu/CustomerChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEpKieu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/0/c/0c9f7502bac9505b850f6ca2d83c5dd3a3da3813" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/0/c/0c9f7502bac9505b850f6ca2d83c5dd3a3da3813" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Modul2.AdvancedJavaWithProgram/IOTextFile/Copyfile/CopyFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Modul2.AdvancedJavaWithProgram/IOTextFile/Copyfile/CopyFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Modul2.AdvancedJavaWithProgram/IOTextFile/Copyfile/read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Modul2.AdvancedJavaWithProgram/IOTextFile/Copyfile/read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Modul2.AdvancedJavaWithProgram/IOTextFile/Copyfile/wirte.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Modul2.AdvancedJavaWithProgram/IOTextFile/Copyfile/wirte.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Modul2.AdvancedJavaWithProgram/IOTextFile/ReadCSV/file1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Modul2.AdvancedJavaWithProgram/IOTextFile/ReadCSV/file1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Modul2.AdvancedJavaWithProgram/META-INF/Modul2.AdvancedJavaWithProgram.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOBinaryFile/QuanLySanPham/ManagerProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IOBinaryFile/QuanLySanPham/ManagerProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOBinaryFile/QuanLySanPham/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IOBinaryFile/QuanLySanPham/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOTextFile/Copyfile/CopyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IOTextFile/Copyfile/CopyFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOTextFile/Copyfile/read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IOTextFile/Copyfile/read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOTextFile/Copyfile/wirte.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IOTextFile/Copyfile/wirte.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\CODEGYM DANANG\Jame\Modul2.AdvancedJavaWithProgram\src\TDD\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cjdJEXy7fbboOLaHHkMWZ3ht74" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb2b23e2-c583-412a-a8e2-03aa7a8316d5" name="Default Changelist" comment="" />
+      <created>1591045862498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591045862498</updated>
+      <workItem from="1591045865463" duration="147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

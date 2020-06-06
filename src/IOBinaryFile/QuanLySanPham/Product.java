@@ -57,4 +57,14 @@ public class Product {
     public void setDesciption(String desciption) {
         this.desciption = desciption;
     }
+
+    @Override
+    public String toString() {
+        return
+                "productCode='" + productCode + '\'' +
+                ", nameProduct='" + nameProduct + '\'' +
+                ", producer='" + producer + '\'' +
+                ", price=" + price +
+                ", desciption='" + desciption+'\'';
+    }
 }

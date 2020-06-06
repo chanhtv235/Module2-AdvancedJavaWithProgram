@@ -1,0 +1,5 @@
+productCode='1', nameProduct='aaaa', producer='aaaa', price=12.0, desciption='aaaa'
+productCode='ww', nameProduct='www', producer='wwwww', price=2.0, desciption='wwwwwww'
+productCode='qqqq', nameProduct='qqqqqqq', producer='qq', price=4.0, desciption='qqqqqqqqq'
+
+
